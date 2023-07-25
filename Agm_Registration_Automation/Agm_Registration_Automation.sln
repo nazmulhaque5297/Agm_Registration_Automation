@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agm_Registration_Automation", "Agm_Registration_Automation\Agm_Registration_Automation.csproj", "{0FCE7051-D696-43F2-AF72-73BA76954448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCE7051-D696-43F2-AF72-73BA76954448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE7051-D696-43F2-AF72-73BA76954448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE7051-D696-43F2-AF72-73BA76954448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCE7051-D696-43F2-AF72-73BA76954448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F8A4E7-8C6A-476C-9793-E952788E0637}
+	EndGlobalSection
+EndGlobal
